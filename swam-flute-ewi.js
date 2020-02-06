@@ -2,7 +2,7 @@
 // Script by: Marco Zagha (https://github.com/marcozarco)
 // License: MIT
 //
-// Video demo: https://youtu.be/O0tlm8kKvzI
+// Video demo: https://youtu.be/22vK9iJRrtY
 
 
 var PluginParameters =
